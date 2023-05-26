@@ -4,14 +4,14 @@
 
 NeuralinkGPT is an open-source project dedicated to creating a robust interface for interacting with Neuralink's cutting-edge brain-machine interface devices.
 
-## Table of Contents
+## 📚 Table of Contents
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Support](#support)
-- [Acknowledgements](#acknowledgements)
+- [🛠️ Installation](#installation)
+- [🚀 Usage](#usage)
+- [🤝 Contributing](#contributing)
+- [📄 License](#license)
+- [💡 Support](#support)
+- [🎉 Acknowledgements](#acknowledgements)
 
 ## Installation
 
