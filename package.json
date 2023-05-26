@@ -1,0 +1,28 @@
+{
+  "name": "NeuralinkGPT",
+  "version": "1.0.0",
+  "description": "Framework for connecting with Neuralink",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuio/NeuralinkGPT.git"
+  },
+  "keywords": [
+    "Neuralink",
+    "LLM",
+    "Node",
+    "API",
+    "Connection"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cuio/NeuralinkGPT/issues"
+  },
+  "homepage": "https://github.com/cuio/NeuralinkGPT#readme",
+  "dependencies": {
+  }
+}
